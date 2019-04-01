@@ -11,10 +11,10 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller
 @SpringBootApplication
-public class OswebApplication {
+public class SSMApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OswebApplication.class, args);
+		SpringApplication.run(SSMApplication.class, args);
 	}
 
 	@RequestMapping("/")
