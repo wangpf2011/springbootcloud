@@ -1,4 +1,4 @@
-package com.wf.ssm.osweb;
+package com.wf.ssm;
 
 import java.util.HashMap;
 import java.util.Map;
