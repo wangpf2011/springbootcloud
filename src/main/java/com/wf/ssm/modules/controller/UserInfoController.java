@@ -1,12 +1,12 @@
-package com.wf.ssm.controller;
+package com.wf.ssm.modules.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.wf.ssm.entity.Student;
-import com.wf.ssm.service.StudentService;
+import com.wf.ssm.modules.entity.Student;
+import com.wf.ssm.modules.service.StudentService;
 
 /**
  * The class UserInfoController.

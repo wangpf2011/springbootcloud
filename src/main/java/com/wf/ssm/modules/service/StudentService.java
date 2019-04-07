@@ -1,10 +1,10 @@
-package com.wf.ssm.service;
+package com.wf.ssm.modules.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.wf.ssm.dao.StudentDao;
-import com.wf.ssm.entity.Student;
+import com.wf.ssm.modules.dao.StudentDao;
+import com.wf.ssm.modules.entity.Student;
 
 /**
  * The class StudentService.

@@ -1,4 +1,4 @@
-package com.wf.ssm.entity;
+package com.wf.ssm.modules.entity;
 
 /**
  * The class Student.
