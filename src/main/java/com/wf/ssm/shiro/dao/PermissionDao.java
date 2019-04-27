@@ -3,8 +3,11 @@ package com.wf.ssm.shiro.dao;
 import java.util.List;
 import java.util.Map;
 
-import com.wf.ssm.shiro.bean.Permission;
+import org.springframework.stereotype.Component;
 
+import com.wf.ssm.shiro.entity.Permission;
+
+@Component
 public interface PermissionDao {
 
     List<Permission> getByMap(Map<String, Object> map);

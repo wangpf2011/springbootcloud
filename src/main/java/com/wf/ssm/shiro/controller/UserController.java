@@ -3,7 +3,7 @@ package com.wf.ssm.shiro.controller;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import com.wf.ssm.shiro.bean.User;
+import com.wf.ssm.shiro.entity.User;
 import com.wf.ssm.shiro.service.UserService;
 
 import javax.servlet.http.HttpServletRequest;

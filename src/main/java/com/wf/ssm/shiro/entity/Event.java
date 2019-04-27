@@ -1,4 +1,4 @@
-package com.wf.ssm.shiro.bean;
+package com.wf.ssm.shiro.entity;
 
 import java.util.Date;
 

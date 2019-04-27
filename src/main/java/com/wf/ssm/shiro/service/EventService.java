@@ -3,7 +3,7 @@ package com.wf.ssm.shiro.service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.wf.ssm.shiro.bean.Event;
+import com.wf.ssm.shiro.entity.Event;
 import com.wf.ssm.shiro.dao.EventDao;
 
 import java.util.List;

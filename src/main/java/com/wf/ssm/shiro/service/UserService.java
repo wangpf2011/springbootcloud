@@ -3,7 +3,7 @@ package com.wf.ssm.shiro.service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.wf.ssm.shiro.bean.User;
+import com.wf.ssm.shiro.entity.User;
 import com.wf.ssm.shiro.dao.UserDao;
 
 import java.util.List;

@@ -11,9 +11,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 
-import com.wf.ssm.shiro.bean.Permission;
-import com.wf.ssm.shiro.bean.Role;
-import com.wf.ssm.shiro.bean.User;
+import com.wf.ssm.shiro.entity.Permission;
+import com.wf.ssm.shiro.entity.Role;
+import com.wf.ssm.shiro.entity.User;
 import com.wf.ssm.shiro.dao.PermissionDao;
 import com.wf.ssm.shiro.dao.UserDao;
 
